@@ -10,6 +10,7 @@ public class Hi {
     static class Say {
         public void say() {
             System.out.println("goodbye");
+            Random r = new Random();
         }
     }
 }
